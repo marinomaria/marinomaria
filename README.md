@@ -1,4 +1,4 @@
-### Hi there, I'm María 
+### Hi there, I'm María :sparkles:
 
 Computer Science student at Universidad de Buenos Aires. Really into Social Sciences, Data Scientist wannabe. 
 
