@@ -1,6 +1,8 @@
 ### Hi there, I'm María :sparkles:
 
-Computer Science student at Universidad de Buenos Aires. Really into Social Sciences, Data Scientist wannabe.
+Computer Science student at Universidad de Buenos Aires.
+
+Really into Social Sciences, Data Scientist wannabe.
 
 [![Linkedin](https://img.shields.io/badge/-MaríaMarino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marino-maria/)](https://www.linkedin.com/in/marino-maria/)
 
