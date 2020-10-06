@@ -1,6 +1,6 @@
 ### Hi there, I'm María :sparkles:
 
-Computer Science student at Universidad de Buenos Aires.
+Data Science student at Universidad de Buenos Aires.
 
 Python dev. Really into Social Sciences, Data Scientist wannabe.
 
